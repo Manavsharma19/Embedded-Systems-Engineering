@@ -5,10 +5,10 @@ This repository contains solutions to a series of assignments focused on embedde
 
 **Technologies and Tools Used:**
 
-Programming Language: C  
-Tools and Libraries: GCC, QEMU, Linux system calls (select, usleep, scanf)  
-Concepts: Finite state machines, UART communication, ARM architecture  
-Environment: Linux, QEMU emulator
+**Programming Language:** C  
+**Tools and Libraries:** GCC, QEMU, Linux system calls (select, usleep, scanf)  
+**Concepts**: Finite state machines, UART communication, ARM architecture  
+**Environment**: Linux, QEMU emulator
 
 Key Features:
 
